@@ -40,8 +40,8 @@ Coming Soon
 
 ----------------------
 #### Price and Availability
-PIXPAPER-213-M is now available through direct sales (www.mayqueentech.com).
-PIXPAPER-213-M is offered in a variety of configurations starting from $20 for 1pc order.
+PIXPAPER-426-M is now available through direct sales (www.mayqueentech.com).
+PIXPAPER-426-M is offered in a variety of configurations starting from $390 for 1pc order.
 Detailed ordering and pricing information is available on sales contact window.
 <br>
 
