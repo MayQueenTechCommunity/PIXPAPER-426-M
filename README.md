@@ -6,10 +6,11 @@ We will gradually port it to more embedded platforms, so this page will be updat
 ----------------------
 
 
+
 #### Overview
 |                         Model                         | SKU.                                                  |                       Driver support                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------| 
-| <img src="https://github.com/user-attachments/assets/f2d21b89-a5e1-46e1-9803-41cd93cfe494" width="200"> | **PIXPAPER-426-M (Mono)** <br />  | ARM MPU platform <br> ARM MCU platform |
+| <img src="https://github.com/user-attachments/assets/8854aa0f-92e2-499e-aad6-9030df05e379" width="200"> | **PIXPAPER-426-M (Mono)** <br />  | ARM MPU platform <br> ARM MCU platform |
 
 
 |                         Specifications                         |                                                   |
