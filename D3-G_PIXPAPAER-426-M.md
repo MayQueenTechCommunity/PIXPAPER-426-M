@@ -45,7 +45,7 @@ Step 1. Install necessary packages
         IMAGE_INSTALL_append = " libgpiod"
 
 
-Step 2. Prepare a 250x122 size picture what you want to showing, then make a image raw data based header file
+Step 2. Prepare a 800x480 size picture what you want to showing, then make a image raw data based header file
 
         Download the PNG to RAW converter base on python3, remember to install opencv package first
         $ sudo apt install python3-opencv
