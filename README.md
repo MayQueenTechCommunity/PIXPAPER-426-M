@@ -14,16 +14,15 @@ We will gradually port it to more embedded platforms, so this page will be updat
 
 |                         Specifications                         |                                                   |
 | :----------------------------------------------------------: | :----------------------------------------------------------- |
-| Screen size | 2.13 inch |
-| Resolution | 250x122 |
-| Color | black, white, 4 grayscale |
-| PPI | 130.6 |
-| Active area | 23.7046×48.55(mm) |
+| Screen size | 4.26 inch |
+| Resolution | 800x480 |
+| Color | black, white |
+| PPI | 219 |
 | Interface | SPI |
 | Partial update | YES |
 | PINOUT | 3.3V, GND, MOSI, SCK, CS#, DC#, RST#, BUSY (DC#, RST#, BUSY are GPIOs)|
 | Enclosure | Plastic using 3D printer |
-|Operating temperature| 0-40 ℃ |
+|Operating temperature| 0-50 ℃ |
 
 ----------------------
 
